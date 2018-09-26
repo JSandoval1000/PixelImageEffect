@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/cel.shader">
     <Files>
-      <File FileName="Assets/PixelateImageEffect.shader" Line="58" Column="3" />
-      <File FileName="Assets/cel.shader" Line="61" Column="2" />
+      <File FileName="Assets/PixelateImageEffect.shader" Line="54" Column="21" />
+      <File FileName="Assets/cel.shader" Line="62" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
