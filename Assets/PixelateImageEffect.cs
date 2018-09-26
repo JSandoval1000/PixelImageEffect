@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PixelateImageEffect : MonoBehaviour {
     public Material effectMaterial;
+    int number = 5;
 	// Use this for initialization
     [ExecuteInEditMode]
 	void Start () {
