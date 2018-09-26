@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{BFA38645-30D8-F7A7-E0FF-3CE892B63FF4}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/cel.shader">
+    <Files>
+      <File FileName="Assets/PixelateImageEffect.shader" Line="58" Column="3" />
+      <File FileName="Assets/cel.shader" Line="61" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -55,7 +55,7 @@
 					
 				// just invert the colors
 				//col.rgb = fixed4(col.rgb;
-				col.r = 0.0;
+		
 				return col;
 			}
 			ENDCG
