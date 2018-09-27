@@ -56,16 +56,14 @@ Shader "Custom/cel"
             fixed4 frag (v2f i) : SV_Target
             {
                 float2 uv = i.uv;
-               
                 fixed4 col = tex2D(_MainTex, uv);
-                col.rgb *= saturate(LightToonShading(i.worldNormal, _WorldSpaceLightPos0.xyz) + _Ambient) * _LightColor0.rgb;
-                //uv.x *= _Columns;
                 
-                
+                col.rgb *= (LightToonShading(i.worldNormal, _WorldSpaceLightPos0.xyz) + _Ambient) * _LightColor0.rgb;
                 return col;
             }
             ENDCG
         }
+        
     }
 }
        

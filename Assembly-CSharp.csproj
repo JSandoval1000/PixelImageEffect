@@ -64,6 +64,7 @@
     <Compile Include="Assets\PixelateImageEffect.cs" />
     <None Include="Assets\PixelateImageEffect.shader" />
     <None Include="Assets\cel.shader" />
+    <None Include="Assets\PixelateImageEffect1.shader" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/JSV/Documents/GitHub/PixelImageEffect/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
